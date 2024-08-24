@@ -2,6 +2,10 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Launch the project
+
+- npx expo start -c --tunnel
+
 ## Get started
 
 1. Install dependencies
