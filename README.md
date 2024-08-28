@@ -29,6 +29,10 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
+### Docs
+
+See https://neon.tech/docs/serverless/serverless-driver
+
 ## Get a fresh project
 
 When you're ready, run:
